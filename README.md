@@ -1,7 +1,7 @@
 # 🤖 Machine Learning Class Projects
 Welcome to my Machine Learning class projects repository! This repository contains my implementations and analyses of various machine learning models covered in the course.
 
-## 📚 Models Covered
+## 📚 Models Covered In This Repository
 1. k-Nearest Neighbors (kNN) Classification
 2. Linear Regression
 3. Logistic Regression with Stochastic Gradient Descent (SGD)
