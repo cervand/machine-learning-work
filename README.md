@@ -9,29 +9,8 @@ Welcome to my Machine Learning class projects repository! This repository contai
 
 Each model's implementation and results can be found in its respective Jupyter Notebook.
 
-## 📂 Repository Structure
-|-- kNN
-| |-- kNN_Classification.ipynb
-| |-- ...
-|
-|-- Linear_Regression
-| |-- Linear_Regression.ipynb
-| |-- ...
-|
-|-- Logistic_Regression_with_SGD
-| |-- Logistic_Regression_with_SGD.ipynb
-| |-- ...
-|
-|-- Neural_Networks_Classification
-| |-- Neural_Networks_Classification.ipynb
-| |-- ...
-|
-|-- LICENSE
-|-- README.md
-
-
 ## 🚀 Getting Started
-To explore any of the projects, simply navigate to the corresponding folder and open the Jupyter Notebook file. You can interactively run the code and see the results within the notebook.
+To explore any of the projects, simply navigate to the corresponding file. Because it is a Jupyter Notebook file, you can already see its output.
 
 ## 📝 Note
 Please note that these projects were completed as part of my Machine Learning class, and I have used various datasets and techniques to analyze and build the models. The results and conclusions are based on the specific datasets and methods used.
@@ -40,4 +19,3 @@ Feel free to explore the projects, and I hope you find them informative and insi
 
 ## 🙌 Acknowledgments
 Special thanks to my instructor and the course for providing valuable insights and guidance throughout the projects.
-
